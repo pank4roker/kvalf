@@ -1,0 +1,14 @@
+E:\ЭКзамен\1\1\bin\Debug\net8.0\1.exe
+E:\ЭКзамен\1\1\bin\Debug\net8.0\1.deps.json
+E:\ЭКзамен\1\1\bin\Debug\net8.0\1.runtimeconfig.json
+E:\ЭКзамен\1\1\bin\Debug\net8.0\1.dll
+E:\ЭКзамен\1\1\bin\Debug\net8.0\1.pdb
+E:\ЭКзамен\1\1\obj\Debug\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЭКзамен\1\1\obj\Debug\net8.0\1.AssemblyInfoInputs.cache
+E:\ЭКзамен\1\1\obj\Debug\net8.0\1.AssemblyInfo.cs
+E:\ЭКзамен\1\1\obj\Debug\net8.0\1.csproj.CoreCompileInputs.cache
+E:\ЭКзамен\1\1\obj\Debug\net8.0\1.dll
+E:\ЭКзамен\1\1\obj\Debug\net8.0\refint\1.dll
+E:\ЭКзамен\1\1\obj\Debug\net8.0\1.pdb
+E:\ЭКзамен\1\1\obj\Debug\net8.0\1.genruntimeconfig.cache
+E:\ЭКзамен\1\1\obj\Debug\net8.0\ref\1.dll
